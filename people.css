@@ -1,0 +1,86 @@
+body{
+  background-color: #787059;
+  color: white;
+  text-align: center;
+}
+h2{
+  font-size: 1.3em;
+  text-align: center;
+  line-height: 1em;
+  color: orange;
+}
+h3{
+  font-size: 1.1em;
+  line-height: .7em;
+  color: cyan;
+  padding-top:.3em;
+  padding-bottom: 0;
+  margin:0;
+}
+h4{
+  font-size: 1em;
+  line-height: .5em;
+  padding: 1em;
+  padding-bottom: .5em;
+  margin: 0;
+  font-weight: normal;
+  color: yellow;
+}
+.pieces{
+  /*border: 1px solid grey;*/
+  border-radius: 10%;
+  background-color: #786737;
+  box-shadow: -10px 10px 15px #2b2926;
+  padding: 1% 1% 2%;
+  margin-top: 1%;
+}
+#left{
+  width: 23%;
+  float: left;
+  margin-top: 0;
+}
+#centre{
+  width: 46.5%;
+  float: left;
+  margin: 0 1%;
+  margin-bottom: 1%;
+}
+.right{
+  width: 24%;
+  float: right;
+  margin-top: 0;
+}
+#history{
+  clear: both;
+  margin: 1%;
+}
+#history p{
+  text-align: justify;
+}
+
+#general_info .info{
+line-height: 2em;
+text-align: center;
+border-bottom: .5px solid brown;
+padding-bottom: 1em;
+margin-bottom: 1em;
+}
+.info2{
+  line-height: 1.5em;
+  text-align: left;
+  padding: 1em;
+
+}
+
+.pot1{
+  text-align: left;
+}
+.pot1 h4{
+  padding-top: .4em;
+  padding-bottom: 0;
+}
+.pot1 p{
+  font-style: italic;
+  margin-top: .5em;
+  margin-bottom: .7em;
+}
